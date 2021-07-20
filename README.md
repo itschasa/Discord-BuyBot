@@ -6,6 +6,10 @@ Digital Currency Bot which allows users to purchase items with custom outputs.
 Its recommended that you know how to code in Python before trying to use this bot.
 You will need to custom code your outputs to all of your products as I don't know what you want them to do.
 
+## Recommendation
+This bot was designed for an addon to [Donate Bot](https://donatebot.io/) which is a bot which allows you to purchase roles with PayPal.
+Feel free to do whatever you want with the bot though. (no skidding <3)
+
 ## Features
 - Fully commented with so you can understand how it works.
 - Custom Products and Custom Prices.
