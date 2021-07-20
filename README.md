@@ -1,4 +1,4 @@
-# BuyBot (Discord Bot)
+# BuyBot v1.0 (Discord Bot)
 ![Python](https://img.shields.io/badge/python-3.8%2B-yellow)  ![update](https://img.shields.io/github/last-commit/itschasa/discord-buybot)
 
 Digital Currency Bot which allows users to purchase items with custom outputs.
