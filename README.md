@@ -1,5 +1,6 @@
 # BuyBot (Discord Bot)
 ![Python](https://img.shields.io/badge/python-3.8%2B-yellow)  ![update](https://img.shields.io/github/last-commit/itschasa/discord-buybot)
+
 Digital Currency Bot which allows users to purchase items with custom outputs.
 ## Notice
 Its recommended that you know how to code in Python before trying to use this bot.
